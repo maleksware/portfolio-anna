@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aleksander Maksimov
+title: Anna Maksimova
 description: ""
 logo: assets/profile-photo.jpg
-baseurl: "/portfolio-alex/" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio-anna/" # the subpath of your site, e.g. /blog
 url: "https://ASMaksimov2007.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  ASMaksimov2007
+
 
 # Build settings
 remote_theme: BDHU/minimalist
