@@ -67,6 +67,8 @@ Every year I participate in [several olympiads](https://drive.google.com/drive/f
 - Home theatre
 - Crafts: embroidery, sewing, knitting, macrame, clay models, paper models
 
+![Arts](assets/arts.jpg)
+
 # Social achievements
 
 - School volunteering: audio stories for primary school, charity festival participation [volunteer badge](https://drive.google.com/file/d/1n1-s0dQIKYSiePAyUwrduSaQHgcwxnBh/view?usp=sharing)
