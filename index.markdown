@@ -21,7 +21,7 @@ I am currently in 6th grade according to Russian education model. This year we s
 - English (5 hours/week)
 - German (2 hours/week)
 - Biology (1 hour/week)
-- Информатика (2 hours/week)
+- Informatics (2 hours/week)
 - History (2 раза в неделю)
   - Medieval times (500 - 1500)
 - Literature (3 hours/week)
@@ -40,7 +40,9 @@ I [was nominated](https://drive.google.com/file/d/1urXXNs4ARU_uwQLmW-_0o_1Vhf0CP
 
 Currently working on a school museum project, focused on increasing the interest of visiting the museum and the availability of the information about it.
 
-I am learning English, German, Italian and French. Every year I participate in several olympiads in different subjects.
+I am learning English, German, Italian and French.
+
+Every year I participate in [several olympiads](https://drive.google.com/drive/folders/1oHSeGiC6l4IPd_5ARdCvYJXmMald_m_q?usp=sharing) in different subjects.
 
 # Sports achievements
 
@@ -49,22 +51,25 @@ I am learning English, German, Italian and French. Every year I participate in s
   - [Maces](https://youtu.be/wpcHyuMy12o)
   - [Ribbon](https://youtu.be/AJeu8KBdwL4)
   - [Group dance festival](https://youtu.be/91hvBtoMrVY)
+  - [Diplomas](https://drive.google.com/drive/folders/1TsnbhhGi8bfOX-FgO_GKLqzSvIlrDm3e?usp=sharing)
 - Horseriding (45 summertime trainings)
 - Swimming (6 years)
-- Chess (1 year)
+- Chess (1 year) [diploma link](https://drive.google.com/drive/folders/1Jb-Wv-fhmX5tlPD5YwoByXhRfZ8p_XKu?usp=sharing)
 - Checkers (2 years)
-- Robotics (2 years)
+- Robotics (2 years) [diploma link](https://drive.google.com/drive/folders/12N5cnFcsN_TLLmOAXzKPxLbhzHavsCJY?usp=sharing)
+
+![Gymnastics](assets/gymnastics.jpg)
 
 # Arts achievements
 
-- Drawing (6 years, 2 times a week, inluding New Tretyakov Gallery classes), participating in exhibitions
+- Drawing (6 years, 2 times a week, inluding New Tretyakov Gallery classes), participating in exhibitions [diploma link](https://drive.google.com/drive/folders/1lBwNGuNfjJZppDGJAAVXbef9Th8mv4JY?usp=sharing)
 - Music (piano - 6 years, 2 times a week, ukulele - 1 year, once a week, guitar - 2 years, once a week)
 - Home theatre
 - Crafts: embroidery, sewing, knitting, macrame, clay models, paper models
 
 # Social achievements
 
-- School volunteering: audio stories for primary school, charity festival participation
+- School volunteering: audio stories for primary school, charity festival participation [volunteer badge](https://drive.google.com/file/d/1n1-s0dQIKYSiePAyUwrduSaQHgcwxnBh/view?usp=sharing)
 - City festival participations with the dancing group "Arabesques"
 - Roles in school plays
 - Plant care
