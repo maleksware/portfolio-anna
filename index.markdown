@@ -22,7 +22,7 @@ I am currently in 6th grade according to Russian education model. This year we s
 - German (2 hours/week)
 - Biology (1 hour/week)
 - Informatics (2 hours/week)
-- History (2 раза в неделю)
+- History (2 hours/week)
   - Medieval times (500 - 1500)
 - Literature (3 hours/week)
 - Arts (1 hour/week)
