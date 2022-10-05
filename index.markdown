@@ -67,7 +67,7 @@ I am learning English, German, Italian and French.
 
 Including transcript for years 2018-2022 and two "*Excellent student*" diplomas.
 
-{% assign filter = "grades school school_star projects" %}
+{% assign filter = "school" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
 
 Every year I participate in olympiads in different subjects:
@@ -93,13 +93,14 @@ Every year I participate in olympiads in different subjects:
 - Checkers (2 years)
 - Robotics (2 years)
 
+{% include youtube-gymnastics.html %}
+
 ![Gymnastics](assets/gymnastics.jpg)
 
 # Sports awards and diplomas:
 
 {% assign filter = "sports" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
-
 
 # Arts achievements
 
@@ -108,7 +109,7 @@ Every year I participate in olympiads in different subjects:
 - Home theatre
 - Crafts: embroidery, sewing, knitting, macrame, clay models, paper models
 
-{% assign filter = "arts" %}
+{% assign filter = "drawing" %}
 {% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
 
 ![Arts](assets/arts.jpg)
@@ -119,6 +120,11 @@ Every year I participate in olympiads in different subjects:
 - City festival participations with the dancing group "Arabesques"
 - Roles in school plays
 - Plant care
+
+# Other awards and hobbies (robotics):
+
+{% assign filter = "robotics" %}
+{% for award in site.data.awards %}{% if filter contains award.topic %}{% include pic.html %}{% endif %}{% endfor %}
 
 # Interests and hobbies
 
