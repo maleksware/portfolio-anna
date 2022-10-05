@@ -44,6 +44,24 @@ I am learning English, German, Italian and French.
 
 Every year I participate in [several olympiads](https://drive.google.com/drive/folders/1oHSeGiC6l4IPd_5ARdCvYJXmMald_m_q?usp=sharing) in different subjects.
 
+| Subject                   | 2018 | 2019 | 2020 | 2021 | 2022 |
+|---------------------------|------|------|------|------|------|
+| Russian                   |      | 5    | 5    | 5    | 5    |
+| Literature                |      | 5    | 5    | 5    | 5    |
+| Native language (Russian) |      |      | 5    | 5    |      |
+| Native literature         |      |      | 5    | 5    |      |
+| Maths                     |      | 5    | 5    | 5    | 5    |
+| World history             |      |      |      |      | 5    |
+| Nature and the World      |      | 5    | 5    | 5    |      |
+| Geography                 |      |      |      |      | 5    |
+| English                   |      | 5    | 5    | 5    | 5    |
+| Arts                      |      | 5    | 5    | 5    | 5    |
+| Music                     |      | 5    | 5    | 5    | 5    |
+| PE                        |      | 5    | 5    | 5    | 5    |
+| Informatics               |      | 5    | 5    | 5    | 5    |
+| Choreography              |      | 5    | 5    | 5    |      |
+| Natural sciences          |      |      |      |      | 5    |
+
 # Sports achievements
 
 - Gymnastics with acrobatics, modern dance, cheerleading and ballet (8.5 years, 4 times a week (2.5 hours)) (multiple competition prizes)
