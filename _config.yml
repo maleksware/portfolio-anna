@@ -28,6 +28,7 @@ url: "https://ASMaksimov2007.github.io" # the base hostname & protocol for your 
 # Build settings
 remote_theme: BDHU/minimalist
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 
