@@ -12,27 +12,27 @@ I study in [Gymnasium 1505](http://gym1505.ru/) in Moscow with advanced courses 
 I am currently in **6th grade** in [Russian school system](https://en.wikipedia.org/wiki/Education_in_Russia#Levels_of_education) where school has 11 years.
 # School performance and grades
 
-Our school uses [Russian 5-mark system](https://en.wikipedia.org/wiki/Academic_grading_in_Russia) where 5 denotes "excellent".
+Our school uses [Russian 5-mark system](https://en.wikipedia.org/wiki/Academic_grading_in_Russia) where 5 denotes "excellent" (A in Australian system).
 
 I have **top marks** in **all subjects** after each term in **all 5 completed years** of school. Here are final year grades in the last four years:
 
 | Subject                   | 2019 | 2020 | 2021 | 2022 |
 |---------------------------|------|------|------|------|
-| Russian                   | 5    | 5    | 5    | 5    |
-| Literature                | 5    | 5    | 5    | 5    |
-| Native language (Russian) |      | 5    | 5    |      |
-| Native literature         |      | 5    | 5    |      |
-| Maths                     | 5    | 5    | 5    | 5    |
-| World history             |      |      |      | 5    |
-| Nature and the World      | 5    | 5    | 5    |      |
-| Geography                 |      |      |      | 5    |
-| English                   | 5    | 5    | 5    | 5    |
-| Arts                      | 5    | 5    | 5    | 5    |
-| Music                     | 5    | 5    | 5    | 5    |
-| PE                        | 5    | 5    | 5    | 5    |
-| Informatics               | 5    | 5    | 5    | 5    |
-| Choreography              | 5    | 5    | 5    |      |
-| Natural sciences          |      |      |      | 5    |
+| Russian                   | A    | A    | A    | A    |
+| Literature                | A    | A    | A    | A    |
+| Native language (Russian) |      | A    | A    |      |
+| Native literature         |      | A    | A    |      |
+| Maths                     | A    | A    | A    | A    |
+| World history             |      |      |      | A    |
+| Nature and the World      | A    | A    | A    |      |
+| Geography                 |      |      |      | A    |
+| English                   | A    | A    | A    | A    |
+| Arts                      | A    | A    | A    | A    |
+| Music                     | A    | A    | A    | A    |
+| PE                        | A    | A    | A    | A    |
+| Informatics               | A    | A    | A    | A    |
+| Choreography              | A    | A    | A    |      |
+| Natural sciences          |      |      |      | A    |
 
 
 Last year I was nominated for a **"School Star" award**. It is an award given to three people in a class consisting of about 30 students.
